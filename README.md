@@ -1,5 +1,7 @@
 # Final Project
 
+*** TO OPEN THE PROJECT USE THE FILE final.ipynb ON THE FINAL PROJECT FOLDER ***
+
 ## Team Members:
 * Ben Gradeck: bvg2@pitt.edu
 * Jackie Colmenares: jgc45@pitt.edu
